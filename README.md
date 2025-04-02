@@ -54,6 +54,3 @@ This project walks through a structured EDA (Exploratory Data Analysis) and appl
 - A few **low-budget indie films** had massive ROI, making them hidden gems.
 
 ---
-
-## 📂 Project Structure
-
